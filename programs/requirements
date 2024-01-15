@@ -1,0 +1,10 @@
+#install python 3.x - Use an installer and install the same.
+pip install langchain
+pip install openai
+pip install huggingface-hub
+pip install pydantic
+pip install langchain langchain-experimental
+pip install pymysql
+
+#To install from config file
+#pip install -r requirements.txt
